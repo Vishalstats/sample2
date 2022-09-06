@@ -1,0 +1,7 @@
+To download tableau
+tableau.com         #Trail version
+tableu public         #Free of cost
+
+
+Tableau data set:
+https://www.superdatascience.com/pages/tableau

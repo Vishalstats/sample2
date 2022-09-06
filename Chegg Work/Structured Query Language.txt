@@ -1,0 +1,3 @@
+What is database?
+Ans: A database is a container where data can be controlled systematically. Managing, manipulation of those data are easy.
+
